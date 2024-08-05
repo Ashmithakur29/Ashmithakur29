@@ -10,5 +10,4 @@
 Ashmithakur29/Ashmithakur29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Screenshot 2024-08-05 155517](https://github.com/user-attachments/assets/4b347e96-a643-481a-bdfc-1fa89953dc64)
-![Screenshot 2023-08-03 221431](https://github.com/user-attachments/assets/0e56961a-2b22-40a2-8576-876c7c8277b0)
+
