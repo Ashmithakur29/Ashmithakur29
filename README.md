@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashmithakur29
-- 👀 I’m interested in looking forward in the feild of Computer Science 
+- 👀 I’m interested in looking forward in the feild of Computer Science with AI & ML 
 - 🌱 I’m currently learning Python , Frontend and Web Accessibility 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - anushkathakur2901@gmail.com
